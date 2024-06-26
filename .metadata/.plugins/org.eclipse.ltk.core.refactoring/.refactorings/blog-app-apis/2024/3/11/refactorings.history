@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;blog-app-apis/src/main/resources/appication-dev.properties&apos; to &apos;application-dev.properties&apos;" description="Rename resource &apos;appication-dev.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/appication-dev.properties" name="application-dev.properties" stamp="1710309944600" updateReferences="true"/>
+</session>

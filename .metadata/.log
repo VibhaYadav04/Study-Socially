@@ -1,0 +1,19 @@
+!SESSION 2024-06-25 12:17:33.476 -----------------------------------------------
+eclipse.buildId=4.19.1.202308011926
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+This is a continuation of log file E:\MCA\JAVA\Blogging Project\.metadata\.bak_0.log
+Created Time: 2024-06-25 12:18:30.308
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-25 12:18:30.309
+!MESSAGE Boot project ADDED: blog-app-apis
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-25 12:18:30.311
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-25 12:18:30.317
+!MESSAGE Started Boot LS process
