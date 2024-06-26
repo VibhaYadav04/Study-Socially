@@ -47,6 +47,7 @@ A web-based application where teachers can post notes and students can read and 
 - Search API to search posts with a particular keyword.
 - Deployed the backend on AWS.
 ## Project Demo
-https://github.com/VibhaYadav04/Study-Socially/assets/110171547/bc1110be-9359-482a-b700-64a4529d344b
+
+https://github.com/VibhaYadav04/Study-Socially/assets/110171547/84d5d84a-7e01-426a-970a-32daca202ce9
 
 
