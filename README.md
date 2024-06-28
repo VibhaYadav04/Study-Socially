@@ -47,7 +47,7 @@ A web-based application where teachers can post notes and students can read and 
 - Search API to search posts with a particular keyword.
 - Deployed the backend on AWS.
 
-##Future Enhancements
+## Future Enhancements
 - Would make notes available Year wise like for 1st, 2nd, 3rd Year.
 - Categories are added from backend so it should also be added in the frontend where admin can only add them.
 - Search option is provided in backend, that too needs to be added in frontend.
