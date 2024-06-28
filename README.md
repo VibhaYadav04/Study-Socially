@@ -46,6 +46,12 @@ A web-based application where teachers can post notes and students can read and 
 - Post API includes pagination and sorting.
 - Search API to search posts with a particular keyword.
 - Deployed the backend on AWS.
+
+##Future Enhancements
+- Would make notes available Year wise like for 1st, 2nd, 3rd Year.
+- Categories are added from backend so it should also be added in the frontend where admin can only add them.
+- Search option is provided in backend, that too needs to be added in frontend.
+   
 ## Project Demo
 
 https://github.com/VibhaYadav04/Study-Socially/assets/110171547/84d5d84a-7e01-426a-970a-32daca202ce9
