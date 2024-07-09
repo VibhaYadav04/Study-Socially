@@ -2,6 +2,10 @@
 
 A web-based application where teachers can post notes and students can read and discuss their doubts. It helps students to read notes subject-wise and clear their own and their classmates' doubts. One needs to first signup. To upload notes, one needs to log in.
 
+## ER Diagram
+![ER Diagram](https://github.com/VibhaYadav04/Study-Socially/assets/110171547/acb921b3-5c4d-4a02-a470-bf30c845d87f)
+
+
 ## Features
 
 - **User Authentication:** Users can log in, sign up, and log out securely. These processes are handled by Spring Security.
